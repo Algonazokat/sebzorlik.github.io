@@ -1,0 +1,28 @@
+body{
+	background-color: #f7d2ad;
+}
+h1, h2{
+	font-family: "Garamond", cursive;
+	color: #9830b3;
+	line-height: 5px;
+}
+p{
+	font-size: 16px;
+	color: #bd0d7c;
+}
+.quote{
+	color: #fc086e;
+	font-family: Lucida Handwriting, serif;
+	font-size:  18px;
+	font-style: italic;
+	line-height: 0px;
+}
+ol{
+	color:#bd0d7c;
+}
+hr{
+	border-bottom: 2px dotted #9830b3;
+}
+a{
+	color: #388556;
+}
